@@ -1,28 +1,54 @@
-<h1 align="center">Hi 👋, I'm Uzair Ibrahim</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Pakistan.</h3>
+<h1 align="center">Hello Devs 👀, I am Uzair</h1>
+<h3 align="center">a passionate Full Stack Developer, who likes to develop thinking into code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzair-ibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="uzair-ibrahim" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Uzair-Ibrahim&theme=onestar" alt="Uzair-Ibrahim" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzair-ibrahim" alt="uzair-ibrahim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@uzair_kamboh1" target="blank"><img src="https://img.shields.io/twitter/follow/@uzair_kamboh1?logo=twitter&style=for-the-badge" alt="@uzair_kamboh1" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-ibrahim-17ba56283/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Uzair.kamboh24)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/uzair_kamboh.uk/)
 
-- 💬 Ask me about **C,C++,OOP,HTML,CSS,JavaScript.**
+## 🌐 Reach me: 
 
-- 📫 How to reach me **uzairkamboh311@gmail.com**
+[![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/drive/folders/1YqNYJmThqhEIAsaYrB4JxoeLxt_BhTA-?lfhs=2)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@uzair_kamboh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@uzair_kamboh1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uzair ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzair ibrahim" height="30" width="40" /></a>
-<a href="https://fb.com/uzair kamboh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uzair kamboh" height="30" width="40" /></a>
-</p>
+</div><h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%2300799C.svg?style=flat&logo=matplotlib&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Logic Works](https://img.shields.io/badge/Logic%20Works-%23121011.svg?style=flat)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzair-ibrahim&show_icons=true&locale=en&layout=compact" alt="uzair-ibrahim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair-ibrahim&show_icons=true&locale=en" alt="uzair-ibrahim" /></p>
+<div> <a href="https://github.com/Uzair-Ibrahim" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:uzairkamboh311@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzair-ibrahim&" alt="uzair-ibrahim" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Stars</h3>
+<div align="center">
+<span align="center" ><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Ibrahim&layout=compact&theme=tokyonight" alt=Uzair-Ibrahim />
+</span>
+<span align="center" >&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Uzair-Ibrahim&show_icons=true&locale=en&theme=tokyonight" alt="Uzair-Ibrahim" /></span>
+<br/>
+<br/>
+<span align="center" ><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Uzair-Ibrahim&theme=tokyonight" alt="Uzair-Ibrahim" /></span>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Uzair-Ibrahim">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uzair-Ibrahim&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uzair-Ibrahim&theme=tokyonight" height="180em" />
+<br/>
+<br/>
+<br/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzair-Ibrahim&theme=tokyonight" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Uzair-Ibrahim&theme=github-dark"/>
