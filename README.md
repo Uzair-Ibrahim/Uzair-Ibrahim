@@ -1,3 +1,6 @@
+<img src="https://i.imgur.com/OACf5cL.gif" alt="Demo GIF" width="1000" height="300">
+
+
 <h1 align="center">Hello Devs 👀, I am Uzair</h1>
 <h3 align="center">a passionate Full Stack Developer, who likes to develop thinking into code</h3>
 
@@ -9,6 +12,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Uzair.kamboh24)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/uzair_kamboh.uk/)
 
+
 ## 🌐 Reach me: 
 
 [![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/drive/folders/1YqNYJmThqhEIAsaYrB4JxoeLxt_BhTA-?lfhs=2)
@@ -17,6 +21,10 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Principles-blue?style=flat)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%2300799C.svg?style=flat&logo=matplotlib&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
