@@ -1,6 +1,3 @@
-<img src="https://i.imgur.com/OACf5cL.gif" alt="Demo GIF" width="1000" height="300">
-
-
 <h1 align="center">Hello Devs 👀, I am Uzair</h1>
 <h3 align="center"> A Passionate Full Stack Development Enthusiast, Who likes to develop thinking into code</h3>
 
