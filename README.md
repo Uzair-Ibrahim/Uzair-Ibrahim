@@ -1,5 +1,5 @@
 <h1 align="center">Hello Devs 👀, I am Uzair</h1>
-<h3 align="center"> A Passionate Full Stack Development Enthusiast, Who likes to develop thinking into code</h3>
+<h3 align="center"> A Passionate AI Enthusiast, Who likes to develop thinking into code</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Uzair-Ibrahim&theme=onestar" alt="Uzair-Ibrahim" /></a> </p>
 
