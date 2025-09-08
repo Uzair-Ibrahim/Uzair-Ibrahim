@@ -72,8 +72,8 @@
     </td>
  <tr>
    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="65" height="65" alt="Flask" />
-      <br>Flask
+      <img src="https://cdn.simpleicons.org/fastapi/00A7A7" width="65" height="65" alt="FastAPI" />
+      <br>Fast API
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65" height="65" alt="Django" />
