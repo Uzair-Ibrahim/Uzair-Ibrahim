@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github-trophies-delta.vercel.app/?username=Uzair-Ibrahim&theme=cyber&columns=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies-delta.vercel.app/?username=Uzair-Ibrahim&theme=forest&columns=4" alt="GitHub Trophies" />
 </p> 
 <!-- <p align="center">
   <img src="https://github-trophies-delta.vercel.app/?username=Uzair-Ibrahim&theme=radical&column=6&no-frame=true" />
