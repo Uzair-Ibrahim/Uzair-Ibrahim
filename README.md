@@ -2,7 +2,7 @@
 <h3 align="center"> A Passionate AI Enthusiast, Who likes to develop thinking into code</h3>
 
 <p align="center">
-  <img src="https://github-trophies-delta.vercel.app/?username=Uzair-Ibrahim&theme=ocean&columns=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies-delta.vercel.app/?username=Uzair-Ibrahim&theme=forest&columns=4" alt="GitHub Trophies" />
 </p>
 
 
